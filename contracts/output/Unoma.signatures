@@ -1,0 +1,6 @@
+Function signatures:
+324a3a1b: createNewPodcast(uint256,string)
+73cebd64: idToPodcast(bytes32)
+
+Event signatures:
+c76a38386171cb52251fbdc78e26758ce8e879c33550d1e06e68947355430a23: NewPodcastCreated(bytes32,address,uint256,string)

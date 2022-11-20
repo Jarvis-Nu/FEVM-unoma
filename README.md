@@ -1,4 +1,10 @@
-# FEVM Hardhat Kit
+# Unoma
+
+Link to Frontend:
+https://github.com/Jarvis-Nu/unoma-hackevm/tree/main/ui
+
+Link to Figma:
+https://www.figma.com/file/Rizx103q47gbKnl2XiumxV/UNOMA?node-id=0%3A1&t=Jq3IXQd5Le1OAUO0-0
 
 ## Cloning the Repo
 
